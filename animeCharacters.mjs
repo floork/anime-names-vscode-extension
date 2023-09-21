@@ -480,5 +480,3 @@ export const animeCharacters = [
     name: "Hantengu",
   },
 ];
-
-// module.exports = { animeCharacters };
